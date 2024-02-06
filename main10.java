@@ -3,7 +3,7 @@ public class main10 {
 
 //        if statement
 
-        int age =75;
+        int age =17;
         if(age>=75) {
             System.out.println("ok boomer");
         }
